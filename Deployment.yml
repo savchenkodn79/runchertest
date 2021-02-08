@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: uptimer
-        image: savchenkodn79/uptimer:5
+        image: savchenkodn79/uptimer:6
         resources:
           limits:
             memory: "128Mi"
