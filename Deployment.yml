@@ -4,6 +4,7 @@ metadata:
   name: uptimer
   namespace: uptimer-app
 spec:
+  replicas: 3
   selector:
     matchLabels:
       app: uptimer
